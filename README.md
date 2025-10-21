@@ -1,59 +1,68 @@
-🌐 Julio Vivas
+# 🌐 Julio Vivas
 
-¡Hey! Soy Julio Vivas, estudiante de Ingeniería en Ciencias de la Computación, apasionado por el desarrollo de software, la arquitectura de sistemas y la innovación tecnológica.
-Mi meta es construir soluciones inteligentes y escalables que mezclen lo técnico con lo humano.
+Hey! I'm **Julio Vivas**, a **Computer Science Engineer** passionate about software development, system architecture, and technological innovation.  
+My goal is to build intelligent, scalable solutions that bridge the gap between technical precision and human-centered design.
 
-"El código bien hecho no solo funciona, también se entiende." 💡
+> _"Everything can be learned — all it takes is curiosity, discipline, and a bit of obsession."
 
-🧭 Contenido
+---
 
-👤 Información personal
+## 🧭 Table of Contents
+- [👤 Personal Information](#-personal-information)
+- [⚙️ Projects](#️-projects)
+- [🚀 Interests](#-interests)
+- [🧰 Tech Stack](#-tech-stack)
 
-⚙️ Proyectos
+---
 
-🚀 Intereses
+## 👤 Personal Information
+- **Name:** Julio Vivas  
+- **Occupation:** Computer Science Engineer 
+- **Location:** Guayaquil, Ecuador 🇪🇨  
+- **Website:** _Coming soon_ 🚧  
 
-👤 Información personal
+---
 
-Nombre: Julio Vivas
+## ⚙️ Projects
 
-Ocupación: Estudiante de Ingeniería en Ciencias de la Computación
+### 💼 Modular ERP in .NET & Angular  
+A scalable ERP system designed with **DDD**, **CQRS**, and **microservices architecture**.  
+Includes core business modules such as Accounting, Payroll, Inventory, Invoicing, and Security.
 
-Residencia: Guayaquil, Ecuador 🇪🇨
+### 🧾 Electronic Invoicing API Gateway (Dátil Integration)  
+REST-based API Gateway built with **.NET 8**, implementing **JWT authentication** and digital certificate management (.pfx).  
+Structured under layered architecture: **Domain, Application, Infrastructure, and API**.
 
-Sitio web: En construcción (¡pronto online!)
+### 🎵 CNN-Based Music Recommendation System  
+An AI-driven recommender that analyzes **audio spectrograms using Convolutional Neural Networks** to suggest tracks based on sound similarity and user preferences.  
+Built with Python, TensorFlow, and Librosa for feature extraction.
 
-⚙️ Proyectos
+### 📱 FidelAPP (Flutter)  
+A mobile loyalty application for medical centers with **QR-based check-ins**, **local storage**, and **remote synchronization**.  
+Built with Flutter and integrated REST API services.
 
-Algunos de los proyectos en los que he trabajado o estoy desarrollando:
+### 🧑‍💼 Talent Retention Information System (C# / SQL Server)  
+An academic project aimed at improving employee retention by analyzing work climate, engagement, and satisfaction metrics.  
+Includes predictive analysis and dashboards for HR insights.
 
-ERP Modular en .NET & Angular – Arquitectura DDD, CQRS y microservicios.
+---
 
-API Gateway de Facturación Electrónica (Dátil) – Integración REST, autenticación JWT y manejo de certificados digitales.
+## 🚀 Interests
+- 🧠 **Artificial Intelligence** — Neural networks, NLP, and computer vision.  
+- 🏗️ **Software Architecture** — Clean Architecture, DDD, CQRS, and microservices.  
+- ⚙️ **Full-Stack Development** — .NET, Angular, Vue, Flutter.  
+- 🧩 **Distributed Systems & Resilience** — messaging, queues, and integration patterns.  
+- ☁️ **DevOps & Cloud** — Docker, Azure DevOps, OpenShift, CI/CD pipelines.  
+- 🎮 **Creative Projects** — AR, simulations, and innovative interactive experiences.
 
-Drone Wars 2 (C) – Simulador concurrente con procesos, sockets y artillería virtual.
+---
 
-FidelAPP (Flutter) – Sistema móvil de fidelización médica con QR y almacenamiento local.
+## 🧰 Tech Stack
+> My favorite tools and technologies:
 
-Sistema de Retención de Talento (C# / SQL Server) – Proyecto académico para análisis de clima laboral y retención del talento humano.
+`C#` · `.NET 8` · `SQL Server` · `Angular` · `Vue` · `Node.js` · `Flutter`  
+`Docker` · `Azure DevOps` · `Firebase` · `Python` · `TensorFlow` · `Java` · `SpringBoot`
 
-🚀 Intereses
+---
 
-🧠 Inteligencia Artificial (redes neuronales, NLP, visión por computadora).
-
-🏗️ Arquitectura de software (Clean Architecture, DDD, CQRS, microservicios).
-
-⚙️ Desarrollo full stack (.NET, Angular, Vue, Flutter).
-
-🧩 Sistemas distribuidos y resiliencia (mensajería, colas, integración).
-
-☁️ DevOps & Cloud (Docker, Azure DevOps, OCP, CI/CD).
-
-🎮 Proyectos creativos (AR, simulaciones, juegos con propósito).
-
-🧰 Stack principal
-
-Mis herramientas y tecnologías favoritas:
-
-C# · .NET 8 · SQL Server · Angular · Vue · Node.js · Flutter
-Docker · Azure DevOps · GitHub Actions · Firebase · Python
+_Last updated: October 2025_ ✨
